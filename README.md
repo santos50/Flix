@@ -21,7 +21,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="[![Flix.gif](https://s5.gifyu.com/images/Flix.gif)](https://gifyu.com/image/qgdA)" width=250><br>
+<img src="https://s5.gifyu.com/images/Flix.gif" alt="Flix.gif" border="0" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+Since I was using XCode 8, I had the hardest time with the compatibility of AlamofireImage dependency. I ended up having to just upgrade my MacOS and getting XCode 11 to solve everything with that issue. Also, getting Cocoapods to work was hard as well.
