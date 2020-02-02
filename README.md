@@ -39,7 +39,7 @@ For part 2, the hardest part was getting the cells to appear correctly formatted
 
 ### App Walkthough GIF
 
-<a href="https://gifyu.com/image/qglr"><img src="https://s5.gifyu.com/images/Flixddc3bfb6b9860320.md.gif" alt="Flixddc3bfb6b9860320.gif" border="0" /></a>
+<a href="https://gifyu.com/image/qglr"><img src="https://s5.gifyu.com/images/Flixddc3bfb6b9860320.th.gif" alt="Flixddc3bfb6b9860320.gif" border="0" /></a>
 
 ### Notes
 Describe any challenges encountered while building the app.
