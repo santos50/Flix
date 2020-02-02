@@ -21,6 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+
 For part 2, the hardest part was getting the cells to appear correctly formatted in the Collection View grid. For me, the cells weren't appearing like how I laid them out on my storyboard. I fixed the issue after looking up the problem in the discussion and saw to align them using the autoresizing arrows.
 ---
 
